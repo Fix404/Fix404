@@ -1,7 +1,7 @@
 - 👋 Hola, soy Maximiliano Niscola.
 - 👀 Me interesa la ciencia y la investigación.
 - 🌱 Estoy aprendiendo distintas herramientas de programación. 
-- 💞️ Busco colaborar con proyectos/trabajos de investigación en ingeniería.
+- 💞️ Busco colaborar con proyectos/trabajos de investigación en programación e informática.
 - 📫 Me pueden contactar vía mail: niscolamaximiliano@gmail.com
 
 <!---
